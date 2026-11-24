@@ -16,3 +16,8 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# 构建与测试产物
+dist/
+test/*.bundle.mjs
+test/shot-*.png
